@@ -1,0 +1,62 @@
+a {
+  text-decoration: none;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.link {
+  color: cornflowerblue;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.main_title {
+  color: #5c2929;
+  font-size: 44px;
+  line-height: 48px;
+  font-weight: lighter;
+}
+
+.main_title_about {
+  color: rgb(152, 57, 152);
+}
+
+.text {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  color: darkslategrey;
+}
+
+.subtitle {
+  color: green;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 80px;
+}
+
+.picture {
+  border-radius: 10px;
+  width: 250px;
+}
+
+.input {
+  width: 200px;
+  height: 30px;
+  outline: none;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  font-size: 14px;
+  line-height: 30px;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
