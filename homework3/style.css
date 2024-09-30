@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Questrial&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+body {
+  scroll-behavior: smooth;
+  background: #fff;
+  font-family: "Questrial", sans-serif;
+  color: black;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}
+
+.container {
+  max-width: 1171px;
+  margin: 0 auto;
+}
+
+.header {
+  padding: 40px 0;
+  margin-bottom: 84px;
+}
+
+.navigation {
+}
+
+.navi_logo {
+}
+.nav_bar {
+}
+.nav_link {
+  font-weight: 400;
+  font-size: 14px;
+  color: #000;
+}
+.nav_link_home {
+  color: #f25822;
+}
+
+.main {
+  margin-bottom: 163px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.main_content {
+  margin-bottom: 163px;
+}
+.content {
+}
+.content_title {
+  font-weight: 400;
+  font-size: 60px;
+  color: #000;
+  margin-bottom: 17px;
+}
+.content_text {
+  font-weight: 400;
+  font-size: 20px;
+  color: #888;
+  margin-bottom: 37px;
+}
+.content_btn_box {
+}
+.content_btn {
+  border-radius: 50px;
+  box-shadow: 4px 4px 8px 0 rgba(242, 88, 34, 0.2);
+  background: #f25822;
+  font-weight: 400;
+  font-size: 15px;
+  color: #fff;
+  padding: 15px 36px 16px 35px;
+}
+.watch_btn {
+  border: none;
+  background: none;
+  font-weight: 400;
+  font-size: 15px;
+  color: #aaa;
+}
+.footer {
+  margin-bottom: 96px;
+}
+.logos {
+}
